@@ -1,0 +1,6 @@
+{
+	"skeleton":{"width":270,"height":290,"fps":24,"hash":" ","name":"Sprite"},"bones":[{"name":"root"}],"slots":[{"name":"sheetSlot","bone":"root","attachment":"download"}],"skins":{"default":{"sheetSlot":{"download":{"name":"download","width":251,"height":233}}}},
+	"animations": {
+	"idle": {}
+}
+}

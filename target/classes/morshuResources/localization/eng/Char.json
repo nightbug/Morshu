@@ -1,0 +1,73 @@
+{
+  "Merchant": {
+    "NAMES": [
+      "Proceed",
+      "~Cards!~ NL ~Relics!~ NL ~You want it?~"
+    ],
+    "TEXT": [
+      "Hi! NL Buy something! NL Buy buy buy!",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Hmm... NL ...hmm... NL Oh!",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ],
+    "OPTIONS": [
+      "How did I get here? NL Beats me.",
+      "Last chance to buy somethin'! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "I'm a cat person.",
+      "No rush. NL No rush.",
+      "Now isn't this @exciting!?@",
+      "I used to be like you.",
+      "Heading up?"
+    ]
+  },
+
+  "Shop Screen": {
+    "NAMES": [
+      "~Cards!~ NL ~Relics!~ NL ~You want it?~",
+      "It's not yours my friend, you have no #rcredit!",
+      "It's not yours my friend, you have no #rcredit!",
+      "Come back when you're a little... mmmmm... #rricher!",
+      "Come back when you're a little... mmmmm... #rricher!",
+      "I can't give #rcredit!",
+      "I can't give #rcredit!",
+      "It's yours, my friend!",
+      "It's yours, my friend!",
+      "It's yours, my friend!",
+      "It's yours, my friend!",
+      "Have a nice day.",
+      "Leave",
+      "Select a card to remove from your deck."
+    ],
+    "TEXT": [
+      "~Cards!~ NL ~Relics!~ NL ~You want it?~",
+      "I like your haircut",
+      "Do you have the time?",
+      "Are you a dog person or a cat person?",
+      "You look ~dangerous,~ NL hehe...",
+      "Take your time... NL ..... NL ... or not",
+      "Do you like this rug? NL It's not for sale",
+      "Support small business!",
+      "Masks are cool, I would know!",
+      "Have you seen my courier?",
+      "Stay awhile and listen!",
+      "It's dangerous to go alone! Give me all your gold!",
+      "Buy somethin'",
+      "~*YAWN*~",
+      "I like gold.",
+      "My favorite color is blue. NL How bout you?"
+    ]
+  }
+}

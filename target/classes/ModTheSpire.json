@@ -1,0 +1,16 @@
+{
+  "modid": "morshu",
+  "name": "Morshu Shopkeeper",
+  "author_list": [
+    "Squeeny"
+  ],
+  "description": "Cards, Relics, Removal, you want it? It's yours my friend. As long as you have enough gold.",
+  "version": "0.0.1",
+  "sts_version": "12-22-2020",
+  "mts_version": "3.18.2",
+  "dependencies": [
+    "basemod",
+    "stslib"
+  ]
+}
+
