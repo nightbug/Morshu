@@ -2,7 +2,7 @@
   "Merchant": {
     "NAMES": [
       "Proceed",
-      "~Cards!~ NL ~Relics!~ NL ~You want it?~"
+      "~Cards!~ NL ~Relics!~ NL ~You~ ~want~ ~it?~"
     ],
     "TEXT": [
       "Hi! NL Buy something! NL Buy buy buy!",
@@ -36,7 +36,7 @@
 
   "Shop Screen": {
     "NAMES": [
-      "~Cards!~ NL ~Relics!~ NL ~You want it?~",
+      "~Cards!~ NL ~Relics!~ NL ~You~ ~want~ ~it?~",
       "It's not yours my friend, you have no #rcredit!",
       "It's not yours my friend, you have no #rcredit!",
       "Come back when you're a little... mmmmm... #rricher!",
@@ -52,7 +52,7 @@
       "Select a card to remove from your deck."
     ],
     "TEXT": [
-      "~Cards!~ NL ~Relics!~ NL ~You want it?~",
+      "~Cards!~ NL ~Relics!~ NL ~You~ ~want~ ~it?~",
       "I like your haircut",
       "Do you have the time?",
       "Are you a dog person or a cat person?",

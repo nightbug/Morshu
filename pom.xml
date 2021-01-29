@@ -4,7 +4,7 @@
 
     <groupId>Morshu</groupId>
     <artifactId>Morshu</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <name>Morshu Shopkeeper</name>
     <description>Cards, Relics, Removal, you want it? It's yours my friend. As long as you have enough gold.</description>
     <!-- -->
